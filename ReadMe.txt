@@ -1,2 +1,3 @@
-This is the Readme file for Todos Project developed using ReactJS, Thunk and Redux.
+Todos Project developed using ReactJS, Thunk and Redux.
 Added by Pallavi Arora
+This is original
